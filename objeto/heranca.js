@@ -1,6 +1,6 @@
 const ferrari = {
         modelo : 'F40',
-        elMax: 324
+        velMax: 324
 }
 
 const volvo = {
